@@ -1,1 +1,1 @@
-This is sample new feature by b2.
+This is sample new feature.
